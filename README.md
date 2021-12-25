@@ -32,4 +32,4 @@ and register pages will help you set up a profile. (The SQL database can be seen
 Thanks Michael and Rares for coding the entirety of the logic of the game in Javascript. Thanks Sumaiyah for providing the beautiful, copyright free graphics and poster for us.
 Thanks Zahra for making the application look stunning using entensive CSS. Thanks Miranda for working with me to set up the database. Special thanks to lecturer Steward Blakeway
 for helping me port over to The Uniform Server from MariaDB as there were problems with my university's virtual machine. Final thanks to Obediah Etitho, whom although dropped out due to Covid-19,
-still provided moral support. Wherever you are now, I hope you are doing well.
+still provided moral support. Wherever you guys are now, I hope you are doing well.
