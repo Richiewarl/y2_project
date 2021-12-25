@@ -10,12 +10,12 @@
 ## Description
 This web development project by team Y2 is part of The University of Manchester's first year syllabus. This application is a simple Snakes and Ladders game. 
 The current implementation can only be played with varying number of bots and has no online multiplayer option. Understandably, the code is messy and unprofessional given that
-this is the first web development project for all the members.
+this is the first web development project for all the members. The development of this application was hosted on the university's Gitlab. I took our version and uploaded it here.
 
 If you wish to run or make further changes to the application:
 1. Download The Uniform Server and extract the contents (https://www.uniformserver.com/). Preferably place the contents on your desktop to reduce hassle.
 2. Fork this repository. There should be a button on the top right of the page.
-3. Pull the folders to your machine and copy/place them into -- UniServerZ > www. 
+3. Pull the folders to your machine and copy/place them into -- _UniServerZ > www_. 
 UniServerZ is the deafult name when you extract the downloaded content. (www should contain all the directories you wish to open in the browser using localhost)
 4. In UniServerZ, run UniController application. There should be a popup window.
 5. Press 'start Apache' and 'start SQL' to run the apache server (localhost) and the SQL server.
