@@ -1,0 +1,73 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 767px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 451px;
+  margin: 54px auto;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 669px;
+  animation-duration: 1000ms;
+  background-image: url("poster.jpg");
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("poster.jpg");
+  transition-duration: 0.5s;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 453px;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 884px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 718px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 1396px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 533px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 1008px;
+  }
+}

@@ -1,0 +1,120 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 883px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Caesar Dressing";
+  margin: 28px 973px 0 28px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.8;
+  margin: 28px 285px 0 28px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Caesar Dressing";
+  font-size: 1.875rem;
+  text-decoration: underline !important;
+  margin: 72px 735px 0 28px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: "Courier New", monospace;
+  line-height: 2;
+  margin: 28px 735px 0 28px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.875rem;
+  margin: 152px 606px 58px 28px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 801px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 113px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 563px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 563px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 434px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 581px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 343px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 343px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 214px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 401px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 163px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 163px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 34px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 201px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+}
